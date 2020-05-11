@@ -122,6 +122,10 @@ section {
  * Header
  */
 @media screen and (max-width: 991px) {
+  body {
+   /*  overflow: hidden;
+    width: auto; */
+  }
   .header .navbar {
     padding: 15px 0;
   }
